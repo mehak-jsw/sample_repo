@@ -1,7 +1,7 @@
 THIs is the first line. used for the pull request.
 
 this is the second line!!
-and the third line.
+and the third line., special for conflict
 
 
 
