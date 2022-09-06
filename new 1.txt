@@ -2,8 +2,8 @@ THIs is the first line. used for the pull request.
 
 this is the second line!!
 
-and the third line, from the master.
 
+and the third line
 
 
 and a final line. this is it.
